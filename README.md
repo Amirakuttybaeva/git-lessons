@@ -12,3 +12,18 @@ This is my first project using Git and GitHub.
 ## Author
 
 My first Git project
+## Technologies
+
+**Git** and **GitHub**
+
+*Learning Markdown*
+
+[GitHub](https://github.com)
+
+---
+
+### My goals
+
+- [x] Learn Git
+- [x] Create branches
+- [ ] Learn GitHub Pages
