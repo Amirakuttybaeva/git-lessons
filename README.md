@@ -27,3 +27,7 @@ My first Git project
 - [x] Learn Git
 - [x] Create branches
 - [ ] Learn GitHub Pages
+## Project updates
+Learning how to use Pull Requests.
+## Pull Request
+I created my first pull request.
